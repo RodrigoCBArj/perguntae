@@ -1,6 +1,6 @@
 {
   "name": "perguntae",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Projeto desenvolvido para realizar e gerenciar perguntas anonimas endereçadas ao dono da página.",
   "main": "src/server.js",
   "scripts": {
