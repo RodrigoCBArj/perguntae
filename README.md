@@ -10,6 +10,8 @@ O objetivo é criar uma aplicação de interação através de perguntas, sendo 
 
 ![Exemplo](/.github/perguntae-home-screen.png)
 
+Você pode ver a aplicação funcionando em um vídeo rápido acessando o link: https://www.linkedin.com/posts/rodrigocbaraujo_javascript-html-css-activity-6815393156796952576-lacE
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
